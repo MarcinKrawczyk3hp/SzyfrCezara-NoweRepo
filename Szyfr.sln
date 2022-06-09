@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szyfr", "Szyfr\Szyfr.csproj", "{E7407A41-AD97-484E-A807-6A289D27494F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7407A41-AD97-484E-A807-6A289D27494F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7407A41-AD97-484E-A807-6A289D27494F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7407A41-AD97-484E-A807-6A289D27494F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7407A41-AD97-484E-A807-6A289D27494F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {902A9E94-C0D9-44AA-8146-9ACA6F29F950}
+	EndGlobalSection
+EndGlobal
